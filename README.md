@@ -29,8 +29,15 @@ Follow these steps to set up and run the application:
 
    ```bash
    git clone https://github.com/yourusername/sales-management-portal.git
-2. cd sales-management-portal
-3. dotnet restore
+2. Navigate to the project directory:
+
+   ```bash
+   cd sales-management-portal
+   
+3. Install the required packages:
+
+    ```bash
+    dotnet restore
 
 ## Configuration
 Configure the application by:
